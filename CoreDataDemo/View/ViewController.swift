@@ -21,6 +21,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         print("Home Dir: \(NSHomeDirectory())")
+        print("Got directory")
         
         
        // empList = getAllEmployees()
